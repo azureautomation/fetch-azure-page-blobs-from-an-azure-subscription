@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 2961,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/fetch-azure-page-blobs-from-an-azure-subscription/master/list-pageblob.ps1",
+    "DownloadCount": 639,
+    "Id": "Fetch-Azure-Page-Blobs-17a9ca5c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 306,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-10-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script fetches the details of PAGE BLOB across the Azure subscription and saves it as a CSV file.\u00a0The CSV file will be saved under the location from where the script was run.The general use case could be to understand how many VHD files are present in your subscription. Thes",
+    "Title": "Fetch Azure Page Blobs from an Azure subscription",
+    "UpdatedDate": "2018-10-3T00:00:00",
+    "Url": "https://github.com/azureautomation/fetch-azure-page-blobs-from-an-azure-subscription",
+    "UserTags": "Microsoft Azure, Automation, Azure Blob Storage"
+}
